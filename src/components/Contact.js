@@ -7,7 +7,7 @@ const Contact = (props) => {
       <ParallaxLayer offset={props.offset} speed={props.speed}  onClick={props.onClick} className="container-c">
           <div className="sub-container-c">
             <h1>GET IN TOUCH</h1>
-            <h2>siddarthpatel97@gmail.com</h2>
+            <h2>siddarthjpatel@gmail.com</h2>
           </div>
       </ParallaxLayer>
   );

@@ -10,6 +10,7 @@ const Footer = () => {
           <a href="https://www.linkedin.com/in/siddarthpatel/" target="_blank"><i className="fab fa-linkedin"></i></a>
           <a href="https://www.facebook.com/siddarth.patel.16" target="_blank"><i className="fab fa-facebook"></i></a>
         </p>
+      <p>Built using <strong><a href="https://github.com/drcmda/react-spring">react spring</a></strong></p>
       </div>
   );
 };

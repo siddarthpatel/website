@@ -6,6 +6,7 @@ body {
   font-family: 'Kanit', sans-serif;
   font-size: 1.6rem;
   background: white;
+  cursor: pointer;
 }
 
 button{
@@ -18,20 +19,15 @@ button:disabled{
 a:link {
     text-decoration: inherit;
     color: inherit;
-    padding-bottom: 3px;
-    cursor: pointer;
 }
 
 a:visited {
     text-decoration: inherit;
     color: inherit;
-    padding-bottom: 3px;
-    cursor: pointer;
 }
 
 i {
   margin-right: 20px;
   margin-left: 15px;
   font-size: 20px;
-  cursor: pointer;
 }
